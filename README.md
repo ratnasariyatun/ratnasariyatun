@@ -1,6 +1,2 @@
 - 👋 Hi, I’m @ratnasariyatun
-- 👀 I’m interested in R.
-- 🌱 I’m currently learning bioinformatic skills for anayzing genomic data.
-- 💞️ I’m looking to collaborate on bioinformatic analysis for RNA-seq data.
-- 📫 How to reach me: rsariyatun@gmail.com.
-- Thank you :)
+
